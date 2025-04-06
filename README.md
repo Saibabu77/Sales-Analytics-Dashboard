@@ -1,4 +1,4 @@
-# Sales-Analytics-Dashboard
+#Tableau Sales-Analytics-Dashboard
 sales-insights-visualization Tableau
 ![image](https://github.com/user-attachments/assets/5f622355-d859-4631-89fd-62900c437a8f)
 1. Strong Weekly Revenue Performance
